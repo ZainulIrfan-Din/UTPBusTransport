@@ -1,2 +1,2 @@
 # UTPBusTransport
-A database system regarding Universiti Teknologi Petronas (UTP) bus transportation system.
+A database system regarding Universiti Teknologi Petronas (UTP) bus transportation system. This system ensures that the management process of this company is smoothly done. This system will also help in decreasing error mostly caused by human mistake. Proper management and analysis can be done with the help of data stored and generated due to implementation of this database system. This system will be developed by using Oracle live.
